@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Srikhar",
   middleName: "Bashyam",
   lastName: "Padmanabhan",
-  message: " Passionate about using technology to improve the world we live in. ",
+  message: " Hey! Welcome to my page. Scroll or click the sections above to learn more about me and some projects I've done. ",
   icons: [
     {
       image: "fa-github",
