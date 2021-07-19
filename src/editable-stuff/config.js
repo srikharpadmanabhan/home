@@ -64,7 +64,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "srikharpadmanabhan", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["react-website-first", "kaggle-duplicate-quora"],
+  specificRepos: ["personal-portfolio-site", "react-website-first", "kaggle-duplicate-quora"],
 };
 
 // Leadership SECTION
