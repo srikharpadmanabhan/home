@@ -63,7 +63,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "srikharpadmanabhan", //i.e."johnDoe12Gh"
-  reposLength: 2,
+  reposLength: 0,
   specificRepos: ["react-website-first", "kaggle-duplicate-quora"],
 };
 
