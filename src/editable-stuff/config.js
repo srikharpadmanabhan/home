@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Srikhar Padmanabhan. I’m a junior at the Univeristy of Michigan currently working on a degree in Computer Science. I'm passionate about giving back to the community, and goals are to utilize my degree and training to help improve this community. In my free time I like to go outside, kick a ball, or throw a disc. I also like to play games both outside and indoor",
+    "My name is Srikhar Padmanabhan. I’m a junior at the Univeristy of Michigan currently working on a degree in Computer Science. I'm passionate about giving back to the community, and goals are to utilize my degree and training to help improve this community. In my free time I like to go outside, kick a ball, or throw a disc. I also like to play games both outside and indoor. ",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -123,7 +123,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, or if you have any questions, please feel free to email me at",
+    "I'm currently looking for part-time Software Engineering or Machine Learning internships! If you know of any positions available, or if you have any questions, please feel free to email me at",
   email: "srikhedu@gmail.com",
 };
 
