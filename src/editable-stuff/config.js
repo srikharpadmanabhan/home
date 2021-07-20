@@ -47,7 +47,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/hashirshoaeb.png"),
+  imageLink: require("../editable-stuff/sri_image.png"),
   imageSize: 375,
   message:
     "My name is Srikhar Padmanabhan. I’m a junior at the Univeristy of Michigan currently working on a degree in Computer Science. I'm passionate about giving back to the community, and goals are to utilize my degree and training to help improve this community. In my free time I like to go outside, kick a ball, or throw a disc. I also like to play games both outside and indoor. ",
