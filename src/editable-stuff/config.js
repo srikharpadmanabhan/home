@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Srikhar",
   middleName: "Bashyam",
   lastName: "Padmanabhan",
-  message: " Hey! Welcome to my page. Scroll or click the sections above to learn more about me and some projects I've done. ",
+  message: " Hey! Welcome to my page. Scroll or click the tabs above to learn more about me and some projects I've done. ",
   icons: [
     {
       image: "fa-github",
