@@ -5,7 +5,7 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://srikharpadmanabhan.github.io">hashirshoaeb.github.io</a>
+    <a href="https://srikharpadmanabhan.netlify.app">srikharpadmanabhan.com</a>
     <br />
     <br />
     <a href="https://srikharpadmanabhan.netlify.app">About Me</a>
