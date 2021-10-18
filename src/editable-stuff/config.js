@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/sri_image.png"),
   imageSize: 375,
   message:
-    "My name is Srikhar Padmanabhan. I’m a junior at the Univeristy of Michigan currently working on a degree in Computer Science. I'm passionate about giving back to the community, and goals are to utilize my degree and training to help improve this community. In my free time I like to go outside, kick a ball, or throw a disc. Currently looking for software engineering opportunities for the summer of 2022. ",
+    "My name is Srikhar Padmanabhan. I’m a Junior at the University of Michigan pursuing a Bachelor's degree in Computer Science. In my free time, I like to go play basketball, kick a soccer ball, or throw a frisbee. Currently looking for software engineering opportunities for the summer of 2022. ",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
