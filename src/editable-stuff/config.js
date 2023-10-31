@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/sri_image.png"),
   imageSize: 375,
   message:
-    "Hey! My name is Srikhar Padmanabhan and I’m a senior at the University of Michigan pursuing a Bachelor's degree in Computer Science and Economics. I am passionate about software engineering, machine learning and its applications. In my free time, I like to go play basketball, kick a soccer ball, or throw a frisbee. Currently looking for software engineering opportunities for the summer of 2023. ",
+    "Hey! My name is Srikhar Padmanabhan and I’m a TDP at Capital One in the San Francisco office. I just completed my undergraduate at the University of Michigan receiving a Bachelor's degree in Computer Science and Economics. I am passionate about software engineering, machine learning and its applications. In my free time, I like to go play basketball, kick a soccer ball, or throw a frisbee.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
