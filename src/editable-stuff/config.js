@@ -123,7 +123,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for part-time Software Engineering or Machine Learning internships! If you know of any positions available, or if you have any questions, please feel free to email me at",
+    "If you have any questions, please feel free to email me at",
   email: "srikhedu@gmail.com",
 };
 
