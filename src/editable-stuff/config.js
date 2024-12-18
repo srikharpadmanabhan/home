@@ -62,7 +62,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "srikharpadmanabhan", //i.e."johnDoe12Gh"
+  gitHubUsername: "srikhar-padmanabhan", //i.e."johnDoe12Gh"
   reposLength: 0,
   specificRepos: ["mm-data-analysis-final-project", "personal-portfolio-site", "react-website-first", "kaggle-duplicate-quora", "todo-list-and-recipe-application", "marvel-api-displayer"],
 };
