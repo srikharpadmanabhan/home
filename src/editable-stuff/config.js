@@ -23,10 +23,6 @@ const mainBody = {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/srikharpadmanabhan/",
     },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/PSrikhar/",
-    },
   ],
 };
 
